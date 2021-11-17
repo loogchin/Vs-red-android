@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kill.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="killing bg0000" x="0" y="0" width="0" height="0" frameX="-1429" frameY="-842" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0001" x="0" y="0" width="2385" height="1141" frameX="-629" frameY="-400" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0002" x="2385" y="0" width="2732" height="1382" frameX="0" frameY="-164" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0003" x="5117" y="0" width="2772" height="1383" frameX="-71" frameY="0" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0004" x="0" y="1383" width="2813" height="1355" frameX="-63" frameY="-55" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0005" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0006" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0007" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0008" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0009" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0010" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0011" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0012" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0013" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0014" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0015" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0016" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0017" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0018" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0019" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0020" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0021" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0022" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0023" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0024" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0025" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0026" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0027" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0028" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0029" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0030" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0031" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0032" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0033" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0034" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0035" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0036" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0037" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0038" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+	<SubTexture name="killing bg0039" x="2813" y="1383" width="2878" height="1375" frameX="-30" frameY="-110" frameWidth="3014" frameHeight="1546"/>
+</TextureAtlas>

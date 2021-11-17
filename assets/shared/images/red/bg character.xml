@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg character.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg character0000" x="0" y="0" width="2767" height="752" frameX="-6" frameY="0" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0001" x="0" y="752" width="2773" height="740" frameX="-3" frameY="-10" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0002" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0003" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0004" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0005" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0006" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0007" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0008" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0009" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0010" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0011" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0012" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0013" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+	<SubTexture name="bg character0014" x="0" y="1492" width="2780" height="729" frameX="0" frameY="-20" frameWidth="2780" frameHeight="752"/>
+</TextureAtlas>

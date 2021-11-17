@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["red", "red", [146, 113, 253]],
+		["end", "red", [146, 113, 253]],
+		["shadow", "shadow", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "redbg",
+
+	"storyName": "Red Week",
+	"weekBefore": "tutorial",
+	"weekName": "red-week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

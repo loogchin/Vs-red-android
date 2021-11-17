@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sus2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sus20000" x="0" y="0" width="639" height="477" frameX="-9" frameY="0" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20001" x="0" y="0" width="639" height="477" frameX="-9" frameY="0" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20002" x="639" y="0" width="657" height="463" frameX="0" frameY="-13" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20003" x="639" y="0" width="657" height="463" frameX="0" frameY="-13" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20004" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20005" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20006" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20007" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20008" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20009" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20010" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20011" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20012" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20013" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+	<SubTexture name="sus20014" x="1296" y="0" width="657" height="449" frameX="0" frameY="-25" frameWidth="657" frameHeight="477"/>
+</TextureAtlas>
